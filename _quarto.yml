@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "A New Website"
+  title: "A New Website, second edition"
   navbar:
     left:
       - href: index.qmd
@@ -17,3 +17,4 @@ format:
       - brand
     css: styles.css
     toc: true
+    
